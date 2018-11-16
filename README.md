@@ -16,8 +16,8 @@ Github code in
 
 Next.js [Setup](https://nextjs.org/docs/) Documentation
 
-🚩 This is probably the most important line: ```npm install next react react-dom```
-🚩 ALSO, you need to add some scripts code to *package.json* (check the [documentation](https://nextjs.org/docs/) above)
+🚩 This is probably the most important line: ```npm install next react react-dom```<br>
+🚩 ALSO, you need to add some scripts code to *package.json* (check the [documentation](https://nextjs.org/docs/))
 Run ```npm run dev``` to start project.<br>
 
 
@@ -35,5 +35,5 @@ Learning about <style jsx> for styling and Layout (how it displays props.childre
 
 
 ## Conclusion
-Don't think I need any more tutorials to understand Next.js - it doesn't seem that complicated🤷🏻‍♀️😊.
+Don't think I need any more tutorials to understand Next.js - it doesn't seem that complicated🤷🏻😊.
 
