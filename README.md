@@ -19,8 +19,8 @@ by [@codebreakerjulia](https://www.instagram.com/codebreakerjulia/)
 
 Next.js [Setup](https://nextjs.org/docs/) Documentation
 
-Run ```npm run dev``` to start project.<br><br>
+Run ```npm run dev``` to start project.<br>
 
-(21 min in)<br>
+(21:00)<br>
 Learning about <style jsx> for styling and Layout (how it displays props.children) has been most interesting so far
 ![20min](/assets/20-min.gif)
