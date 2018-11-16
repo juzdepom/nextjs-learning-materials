@@ -17,6 +17,7 @@ Github code in
 Next.js [Setup](https://nextjs.org/docs/) Documentation
 
 🚩 This is probably the most important line: ```npm install next react react-dom```
+🚩 ALSO, you need to add some scripts code to *package.json* (check the [documentation](https://nextjs.org/docs/) above)
 Run ```npm run dev``` to start project.<br>
 
 
